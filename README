@@ -1,6 +1,6 @@
 # URL Shortener
 
-Simple Flask-based URL shortener using SQLite. From Roadmap.sh (https://roadmap.sh/projects/url-shortening-service)
+Simple Flask-based URL shortener using SQLite. From Roadmap.sh (`https://roadmap.sh/projects/url-shortening-service`)
 
 Overview
 --------
