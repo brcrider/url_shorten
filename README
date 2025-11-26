@@ -1,6 +1,6 @@
 # URL Shortener
 
-Simple Flask-based URL shortener using SQLite.
+Simple Flask-based URL shortener using SQLite. From Roadmap.sh (https://roadmap.sh/projects/url-shortening-service)
 
 Overview
 --------
@@ -88,8 +88,4 @@ Notes
 -----
 - The project uses a local SQLite file `db.db` in the project root. The schema is created by calling `create_table()` at startup.
 - Current API returns the full DB row as a list for the retrieve/update endpoints. You can change `models.py` / `routes.py` to return a cleaned JSON object if desired.
-
-License & Contact
------------------
-This is a minimal demo project. Modify and reuse as you like.
 
